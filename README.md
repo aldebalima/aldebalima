@@ -1,6 +1,6 @@
 - Hi, I’m @aldebalima
 - I’m interested in data science, software development and agile develops.
-- I'm currently improving python, web scraping skills.
+- I'm currently improving python language skills .
 - I’m looking to collaborate on web scraping projects.
 - Email me in aldebalima@gmail.com
 
